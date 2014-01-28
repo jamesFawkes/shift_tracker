@@ -1,0 +1,62 @@
+/* 
+    Document   : page
+    Created on : 21-Nov-2013, 16:27:55
+    Author     : b1001522
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+.input_missing {
+    color: white;
+    background: #FF6363;
+    width: 100%;
+    min-height: 20px;
+    margin-right: 10px;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.current_shift {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #b3b3b3;   
+    //font-weight: bold;
+    line-height: 150%;
+}
+
+.shift_button {
+    padding:7px;
+}
+
+.stats {
+    margin:10px;
+    padding:5px;
+    border-bottom: solid 1px #b3b3b3;
+}
+
+#job_button {
+    padding:10px;
+    margin-top: 8px;
+    margin-bottom:8px;
+    width:100%;
+}
+
+#answer {
+    margin:10px;
+    font-weight:bold;
+}
+
+.link {
+    float:left;
+    margin:10px;
+    text-decoration:none;
+    display:block;
+}
