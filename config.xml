@@ -4,14 +4,14 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>Shift Tracker</name>
 
 <description>
-A simple PhoneGap Build application.
+A simple Shift Planner
 </description>
 
-<author href="https://example.com" email="you@example.com">
-Your Name
+<author href="http://http://stackoverflow.com/users/3181924/jamesf" email="jaydude3@hotmail.com">
+James Fawkes
 </author>
-
+<gap:platform name="android" />
 </widget>
